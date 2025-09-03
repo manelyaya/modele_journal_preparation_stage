@@ -86,22 +86,25 @@ Tâches:
 
 # Compétences
 
+
 ## Logiciels  
 Liste de quelques logiciels que tu maîtrise:       
 
-*
-* 
-* 
+* Maya
+* Photoshop
+* Davinci Resolve
+* Reaper
+* Touch Designer
+* Lightroom
+* Max
 
-## Langage de programmation    
-*
-*
-
-
+  
 # Loisirs ou intérêts
 Liste de tes loisirs ou intérêts en un mot:     
 
-*
+* La littérature
+* 
+* 
 *
 *
 * 
@@ -109,9 +112,8 @@ Liste de tes loisirs ou intérêts en un mot:
 # Langues
 Liste des langues que tu maîtrise:     
 
-* 
-* 
-* 
+* Francais
+* Anglais
 
 
 
